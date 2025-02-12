@@ -1,0 +1,20 @@
+# Configuration files with sensitive data
+config.php
+db-conf.php
+/includes/db-conf.php
+/vendor/
+.env
+.idea/
+.vscode/
+*.log
+.phpunit.result.cache
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
